@@ -18,6 +18,8 @@
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/d308833f-3395-456a-99bb-dceb9a16d7cf/project/7263df8f-fcbe-404a-9917-d5e5bda9bea1.svg)](https://wakatime.com/badge/user/d308833f-3395-456a-99bb-dceb9a16d7cf/project/7263df8f-fcbe-404a-9917-d5e5bda9bea1)
+
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?Madheline09/WD-Code-CarCompany-TD21)
@@ -34,10 +36,6 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
           <a href="#technology">Technology</a>
         </li>
       </ol>
@@ -57,26 +55,13 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+This is a final project for our subject CCS0027L, we are tasked to create a website for a car company using tailwind or other exixting codes to familiarize the concept of using html, css or javascript and make it responsive.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +102,17 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| TOYOTA LOGO | Logo | https://banner2.cleanpng.com/20180810/oae/bd5e262fd35a47967e23c7e98c775ac0.webp |
+| Car 2 | Banner Img | https://paultan.org/image/2019/03/Toyota-GR-Supra-GT4-Concept-4_BM-750x394.jpg |
+| Car 3 | Banner Img | https://motortrivia.com/2022/01/toyota-corolla-altis-gr-sport-2022-facelifted/#google_vignette |
+| Car 4 | Banner Img | https://toyotamauritius.com/sites/default/files/slides/Rush%20REVEAL%20Web%20Banner%201600X600px.jpg |
+| Car 5 | Banner Img |https://www.behance.net/gallery/34424211/Toyota-car-Banner|
+| Banner 2 | Our Vehicles Img | https://ph.pinterest.com/pin/785174516261954878/ |
+| Banner 3 | Lear About Us Img | https://pngtree.com/freebackground/several-toyota-cars-parked-on-a-busy-street_2658633.html |
+| Banner 4 | Contact Us Img | https://www.baltana.com/files/cars-1/Toyota-HD-Background-Wallpaper-87893.jpg |
+| GR 86 | Product 1 Img | https://toyotasubic.com.ph/wp-content/uploads/slider37/002_796_1661257534639_000.webp |
+| Camry | Product 2 Img | https://imgcdn.zigwheels.ph/large/gallery/color/30/265/toyota-camry-color-417783.jpg |
+| Tacoma | Product 3 Img | https://www.pngitem.com/middle/xiiJww_red-toyota-tacoma-2018-hd-png-download/#google_vignette |
+| hey | Product 4 Img | https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVdyefr921PSvPaf1tdqf_oG3qdOhddejjKimpbrHmtzJiOICK |
+| The History of Toyota | About Us Video | https://www.youtube.com/watch?v=yq3bpBWfW4s |
+
